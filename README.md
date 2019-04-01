@@ -1,10 +1,10 @@
 # Dasmoto-s-Arts-Crafts-Project
 Web Design Project from Codecademy, Dasmoto's Arts &amp; Crafts Project
 
-Index.HTML
+Index HTML
 
-markdown ```
- 
+markdown```
+
  <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,9 +37,9 @@ markdown ```
  
 ```
 
-Style.CSS
+Style CSS
 
-markdown ```
+markdown```
 
 body {
 	font-family: Helvetica;
