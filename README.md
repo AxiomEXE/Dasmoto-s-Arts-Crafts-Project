@@ -3,7 +3,7 @@ Web Design Project from Codecademy, Dasmoto's Arts &amp; Crafts Project
 
 Index HTML
 
-markdown```
+```markdown
 
  <!DOCTYPE html>
 <html lang="en">
@@ -39,7 +39,7 @@ markdown```
 
 Style CSS
 
-markdown```
+```markdown
 
 body {
 	font-family: Helvetica;
