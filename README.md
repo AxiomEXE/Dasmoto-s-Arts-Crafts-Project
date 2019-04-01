@@ -3,6 +3,10 @@ Web Design Project from Codecademy, Dasmoto's Arts &amp; Crafts Project
 
 [Project5.zip](https://github.com/AxiomEXE/Dasmoto-s-Arts-Crafts-Project/files/3031345/Project5.zip)
 
+Original Spec Design:https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
+![dasmotos-arts_redline](https://user-images.githubusercontent.com/42499071/55360105-74597b80-54a1-11e9-991f-9ea318fed967.jpg)
+
+
 Index HTML
 
 ```markdown
@@ -95,6 +99,3 @@ h1 {
 }
 
 ```
-
-Original Design Spec: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
-
